@@ -1,0 +1,7 @@
+.header{
+    background-image: url('../../../public//images/mobile/image-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 375px;
+    height: 100vh;
+}

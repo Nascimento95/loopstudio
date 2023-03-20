@@ -1,0 +1,9 @@
+.container-home{
+    background-color: aqua;
+}
+.row{
+    /* border: 1px solid red; */
+}
+.col-1{
+    border: 1px solid black;
+}
